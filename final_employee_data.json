@@ -1,0 +1,26 @@
+{
+  "Mike": {
+    "employee": "Mike",
+    "regular": "39.285555555555554",
+    "overtime": "0",
+    "doubletime": "0",
+    "wageTotal": "1056.401736111111",
+    "benefitTotal": "36.83201388888889"
+  },
+  "Steve": {
+    "employee": "Steve",
+    "regular": "40.0",
+    "overtime": "8.0",
+    "doubletime": "1.16583333333333",
+    "wageTotal": "1653.5979166666666",
+    "benefitTotal": "49.90361111111111"
+  },
+  "Alex": {
+    "employee": "Alex",
+    "regular": "40.0",
+    "overtime": "3.642777777777784",
+    "doubletime": "0",
+    "wageTotal": "795.3979166666667",
+    "benefitTotal": "44.59847222222221"
+  }
+}
